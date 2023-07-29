@@ -1,8 +1,11 @@
 
 
+// git config --global alias.s (shortcut term) "status" (actual command)
+// git push origin main --set-upstream -> git push
+
 console.log('hello world');
 
-console.log('Version 3');
+console.log('Version 11');
 
 /*
 
