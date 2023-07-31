@@ -7,6 +7,8 @@
 // git fetch, then
 // git pull origin main --set-upstream -> git pull
 
+// git clone (url) (folder name) - to get a remote repository
+
 console.log('hello world');
 
 console.log('Version 11');
