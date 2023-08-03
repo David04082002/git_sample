@@ -1,3 +1,3 @@
 # git_sample
 
-This is a sample text for clone.
+This is a sample text for a clone repo.
